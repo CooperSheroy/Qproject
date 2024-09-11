@@ -6,7 +6,6 @@ from qiskit.algorithms import Shor
 from qiskit.utils import QuantumInstance
 from qiskit.providers.aer import QasmSimulator
 
-# Define the number to factorize
 N = 15  # We are factorizing 15
 
 # Setup the simulator
